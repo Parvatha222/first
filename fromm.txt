@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hgjhgjhg...hfthelloooo
 =======
 hi ,hello,dhwygdhw
@@ -8,3 +9,11 @@ hi ,hello,dhwygdhw
 hi ,hello,dhwygdhw
 parvatha
 >>>>>>> 27ee4796d12c77b1f333c555a60a5efd53ffc3e8
+=======
+hi ,hello,dhwygdhw
+parvatha
+hi
+heloo
+varthini
+>>>>>>> 4acada9bb4cb244f3aae63a068738e3f37a26c80
+sathish
