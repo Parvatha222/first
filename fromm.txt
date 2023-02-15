@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hgjhgjhg...hfthelloooo
+=======
+hi ,hello,dhwygdhw
+>>>>>>> f383bb2a030d96eee3cc0f767d4b8906326971f0
